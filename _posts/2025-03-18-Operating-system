@@ -1,0 +1,12 @@
+#Operating system introduction
+
+computer ytem component: 1. hardware: CPU, memory, I/O device
+                            2. operating ytem 
+                            3. application program 
+                            4. uer
+          fundamental goal: excution of program, to make olving uer program eaier
+          
+operating system: software that manage a computer' hardware
+            role- provide a bai for application program (allocate reource, control program)
+                  act a an intermediary between the computer uer and the computer hardware
+
