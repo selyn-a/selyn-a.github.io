@@ -1,12 +1,21 @@
 #Operating system introduction
 
-computer ytem component: 1. hardware: CPU, memory, I/O device
-                            2. operating ytem 
+
+computer system components: 1. hardware: CPU, memory, I/O device
+                            2. operating system 
                             3. application program 
-                            4. uer
-          fundamental goal: excution of program, to make olving uer program eaier
+                            4. user
+          fundamental goal: excution of program, to make solving user program easier
           
-operating system: software that manage a computer' hardware
-            role- provide a bai for application program (allocate reource, control program)
-                  act a an intermediary between the computer uer and the computer hardware
+operating system: software that manages a computer's hardware
+            role- provide a basis for application program (allocate resource, control program)
+                  act as an intermediary between the computer user and the computer hardware
+
+constitution of OS: kernel- program running all times on the computer
+                    system program- aid in managing
+                    middleware- a set of software frameworks that provide additional services to application developer
+
+<-> application program: includes all programs not associated with the operation of the system
+
+                   
 
